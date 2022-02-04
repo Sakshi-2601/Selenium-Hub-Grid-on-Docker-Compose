@@ -1,5 +1,5 @@
 # Selenium-Hub-Grid-on-Docker-Compose
-------------------------------------------------------------------------------------
+
 Steps:
 
 1.Start your docker environment.
@@ -11,4 +11,3 @@ Steps:
   sudo docker-compose up -d
   
   sudo docker ps 
-------------------------------------------------------------------------------------
